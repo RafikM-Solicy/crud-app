@@ -1,0 +1,21 @@
+.location-form {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.location-form h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.location-form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+}
+
+.location-form button {
+    margin-top: 0.5rem;
+}

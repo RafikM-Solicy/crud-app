@@ -1,0 +1,40 @@
+.location-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+.location-table th,
+.location-table td {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+}
+
+.location-table th {
+    background-color: #f0f0f0;
+    text-align: left;
+}
+
+.location-table td {
+    text-align: center;
+}
+
+.location-table button {
+    padding: 1rem 2rem;
+    background-color: #e7e7e7;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.location-table button:hover {
+    background-color: #ddd;
+}
+
+.location-table input[type="text"] {
+    width: 80px;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
